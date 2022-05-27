@@ -1,0 +1,5 @@
+@media(max-width: 400px) {
+    .header__info-txt {
+        font-size: 26px;
+    }
+}
